@@ -1,7 +1,7 @@
 # Machine Learning Models — Linear Regression, Logistic Regression, and K-Nearest Neighbours
 ### A Technical Reference on Regression, Binary and Multi-class Classification, Model Evaluation, Coefficient Interpretation, and Applied Prediction Systems
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Supervised Machine Learning, Scikit-learn, Regression, Classification, Model Evaluation
 **Status:** Demonstrative & Applied
 
