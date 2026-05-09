@@ -1,7 +1,7 @@
 # Complete Machine Learning Preprocessing Pipelines and Linear Regression
 ### A Technical Reference on DataFrame Structure, SimpleImputer, Train-Test Split, StandardScaler, Feature Engineering, Data Leakage Prevention, and Linear Regression Evaluation
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Machine Learning Preprocessing, Scikit-learn, Linear Regression, Feature Engineering, Applied ML Pipelines
 **Status:** Demonstrative & Applied
 
