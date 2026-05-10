@@ -1,7 +1,7 @@
 # Confusion Matrix Analysis, K-Means Clustering, Silhouette Evaluation, GridSearchCV Hyperparameter Tuning, and Complete ML Pipelines
 ### A Technical Reference on Classification Metrics, Unsupervised Clustering, Optimal K Selection, Polynomial Feature Engineering, PCA Visualization, and Before-After Tuning Comparison
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Model Evaluation, Unsupervised Learning, Hyperparameter Optimization, Scikit-learn, Applied ML Pipelines
 **Status:** Demonstrative & Applied
 
